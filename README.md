@@ -9,9 +9,7 @@ The graphical user interface was developed with the assistance of Claude.
 
 ## Icon Credits
 
-Icons provided by [Flaticon](https://www.flaticon.com):
-
-- Stop Button — SumberRejeki
-- Play Button (Start) — judanna
-- Power Button (Restart) — hqrloveq
-- Fast Forward Button — SumberRejeki
+- [Stop button icons](https://www.flaticon.com/free-icons/stop-button) — SumberRejeki - Flaticon
+- [Google Play Music icons](https://www.flaticon.com/free-icons/google-play-music) — IYAHICON - Flaticon
+- [Restart icons](https://www.flaticon.com/free-icons/restart) — hqrloveq - Flaticon
+- [Skip icons](https://www.flaticon.com/free-icons/skip) — SumberRejeki - Flaticon
