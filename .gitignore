@@ -1,0 +1,25 @@
+# --- Python: arquivos temporários / bytecode ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Ambientes virtuais ---
+venv/
+.venv/
+env/
+.env/
+ENV/
+
+# --- PyInstaller ---
+# Pastas e arquivos gerados na compilação
+build/*
+!build/.gitkeep
+dist/
+*.spec
+*.manifest
+
+# --- Editores / sistema operacional ---
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
