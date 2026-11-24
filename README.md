@@ -1,4 +1,16 @@
 # Mini-projects-Firefighting-robots
+
+## Course Credits
+
+This project was developed as part of the course
+**N9EE20E - Développement de systèmes informatiques critiques**.
+
+- **Institution:** Toulouse INP ENSEEIHT
+- **Instructor:** Jérémie Guiochet
+- **Academic year:** 2026–2027
+
+The project is based on the mini-project specifications
+provided as part of the course.
 This is a project from the course "N9EE20E - Développement de systèmes informatiques critiques". 
 
 To run the application, download the `Interface` and `CodesPython` folders, then run the `main.py` file located in the `Interface` folder using Python.
